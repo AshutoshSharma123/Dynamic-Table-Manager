@@ -25,7 +25,7 @@
 | **@vitejs/plugin-react** | Enables React integration with Vite |
 | **@types/react / @types/react-dom / @types/node** | TypeScript type definitions for React and Node.js |
 
-✅ Fully clean, modern, and efficient dev setup.
+
 
 ---
 
@@ -38,4 +38,4 @@
 - ✅ CSV Import/Export  
 - ✅ Form Handling  
 
-Everything is ready — you can now move to **Redux setup (store + slice + Provider)** and then start building your UI.
+
